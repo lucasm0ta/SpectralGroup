@@ -1,5 +1,5 @@
 # Air Quality Analisys
-Analyse a dataset usign spectral groupin technique
+Analyse a dataset usigng spectral groupin technique to find non implicit groups in the dataset
 
 ## Dataset
 https://archive.ics.uci.edu/ml/datasets/Air+quality
